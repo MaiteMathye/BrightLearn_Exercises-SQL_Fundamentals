@@ -1,5 +1,5 @@
 # BrightLearn_Exercises_SQL_Fundamentals
-This project demonstrates my understanding of basic SQL querying and data retrieval as part of my journey in data analytics and data science.
+This project demonstrates my understanding of basic SQL querying and data retrieval as part of my journey in data analytics and data science with BrightLearn Institution.
 
 # Exercises Covered
 *Exercise 1 SQL Fundamentals: Covered basic SQL concepts including SELECT, WHERE, filtering, sorting and working with database tables.
